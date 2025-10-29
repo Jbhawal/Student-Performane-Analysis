@@ -19,7 +19,7 @@ This project analyzes a **Kaggle dataset on student exam performance** to uncove
 ### Gender: Female
 <img width="1307" height="730" alt="image" src="https://github.com/user-attachments/assets/01fc79f0-7a1e-4aee-8956-30b1e5c31736" />
 
-###Gender: Male
+### Gender: Male
 <img width="1310" height="731" alt="image" src="https://github.com/user-attachments/assets/dec8830b-3c8b-462a-809d-0baafa53530a" />
 
 
